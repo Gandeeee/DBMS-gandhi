@@ -1,13 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dbms-gandhi/DBMS-gandhi/4a33282247b194519934785465595ff910f1710c/assets/logo.svg" alt="Project Logo" width="150"/>
   <h1>🚀 QOTS - Courier & Shipping DBMS 🚀</h1>
   <p>
     <strong>A comprehensive Database Management System designed to handle all operational aspects of a modern courier and shipping service.</strong>
-  </p>
-  <p>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/dbms-gandhi/DBMS-gandhi?style=for-the-badge&logo=github&color=FFC107">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/dbms-gandhi/DBMS-gandhi?style=for-the-badge&logo=github&color=8BC34A">
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/dbms-gandhi/DBMS-gandhi?style=for-the-badge&logo=github&color=03A9F4">
   </p>
 </div>
 
